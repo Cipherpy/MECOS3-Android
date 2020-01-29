@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771881055083",
+    "firebase_url": "https://mecos3.firebaseio.com",
+    "project_id": "mecos3",
+    "storage_bucket": "mecos3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771881055083:android:46a1ad193033e94fed922e",
+        "android_client_info": {
+          "package_name": "com.meecosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771881055083-rrt8d2iaa9rugdnaqr06a4knb7eoe1u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUM54qfyoCflIksojY9z0VEVzOo1-vgpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771881055083-rrt8d2iaa9rugdnaqr06a4knb7eoe1u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
